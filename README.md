@@ -26,3 +26,5 @@ Memories is a sample mobile application built with Expo that allows users to def
 ```bash
    yarn android
    ```
+
+Credit:  Jareth MacArthur
